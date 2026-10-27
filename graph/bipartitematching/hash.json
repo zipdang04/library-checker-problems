@@ -1,4 +1,10 @@
 {
+  "augmented_cycle_00.in": "8ead2630ed5641d57d4bc8a7160a7e2e52dd2d3417bc94bcec021a4ab77e5b56",
+  "augmented_cycle_00.out": "7f17b05c9b02f135e937df206a4737c53f527ed4972972760a8fbf627dac4f56",
+  "augmented_cycle_01.in": "baeb6b46827cfcc84f408349c09103935022be01959834cb1e51abaf1b8655d4",
+  "augmented_cycle_01.out": "c0734809c818df0a6f798933f783d349808c0e16773e12bd3496b2a0e315c10a",
+  "augmented_cycle_02.in": "7ebba8dbab8b549b51d7907fdd8f141e7088c54d6e7a0d86b9f8dc7c5a1b9d92",
+  "augmented_cycle_02.out": "84f1ddf1f20b8c836e17c65596b2b0ea68e4c881850d0ed5885a191dbb5b6ac5",
   "cycle_00.in": "257dbb1649ccc2cdc6c26ee4d0aa64cc389869e3be332149301c5252e24beb49",
   "cycle_00.out": "926e24287e47a0dbca8fc859568e13a17a7cdaa2c743ef43711fac0b8c17c37f",
   "cycle_01.in": "9e22c4911eb6bd53f9db7cb8b837b8cff9cb78972f638eb3ef30cbb794852455",
@@ -70,5 +76,15 @@
   "random_08.in": "ccc46267c1587fde50a78cd4bc7ca801a29eb58cc3f43dc11b4b169d94f9998f",
   "random_08.out": "47dd497ec03aa4d65eeb4681f52c8a5212537b81056647a391055bde714b50cf",
   "random_09.in": "71c8b189a1ea9eae381142c4e1e04dd9160481024a23d19f9c89ba307e78d15b",
-  "random_09.out": "7b42a9cc23308a676599010e4be8001f7fea3722b3e4145bfbc7487bdb9b5173"
+  "random_09.out": "7b42a9cc23308a676599010e4be8001f7fea3722b3e4145bfbc7487bdb9b5173",
+  "unique_matching_00.in": "e2a928b8e1befc7be907810f78cad91f081473e102ef61c318f9e4e1582141de",
+  "unique_matching_00.out": "b197de44d7bb18d25cd40079a76e6f5fd3a34e96927afcf3f555e14264238de6",
+  "unique_matching_01.in": "352dd954f77294eafe9e84904280d3ac7d1044f5150b9bf501f5b3f7a273b114",
+  "unique_matching_01.out": "dbef5473280c28e54f59dbfd444a4de0b57d8d61957244817bfa186d1ebda7c3",
+  "unique_matching_02.in": "0f808c6926ff5174981a3791235a685710b493697c9b56461fbd993a2beaf732",
+  "unique_matching_02.out": "5732c5ab4392b22beba8a6fd4c62ccbf4dbd2decf854f13f845bc5ab8f2cff8f",
+  "unique_matching_03.in": "21692cfb433d45ef425e349615e44cf7b5c6b98495f2c85a54a9d7ddef70df82",
+  "unique_matching_03.out": "298fa312535d0d0e7754ed012c958dc2a389a551c9e51730e7168d61efc40322",
+  "unique_matching_04.in": "417f1f2ff1d998cd197e730668baf14d10e97c93a71211b7913dea022dccd639",
+  "unique_matching_04.out": "24d145a7faa9f86fdc73a55ae37703daedeb4d315257166b80ada089ac74790e"
 }

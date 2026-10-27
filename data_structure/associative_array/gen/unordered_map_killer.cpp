@@ -6,7 +6,8 @@
 using namespace std;
 
 /*
-このコードでMAGICが計算可能 参考: https://kimiyuki.net/blog/2017/03/08/unordered-map-hash-collision/
+このコードでMAGICが計算可能
+参考 https://kmyk.github.io/blog/blog/2017/03/08/unordered-map-hash-collision/
 
 #include <iostream>
 #include <unordered_map>
@@ -33,8 +34,8 @@ int main(int, char* argv[]) {
     long long seed = atoll(argv[1]);
     auto gen = Random(seed);
 
-    // magic for ideone, judge, clang++(OS X)
-    int MAGIC = vector<int>({256279, 218971, 205759})[seed % 3];
+    // magic for ideone, judge, clang++(OS X), onlinegdb
+    int MAGIC = vector<int>({256279, 218971, 205759, 172933})[seed % 4];
 
     int Q = Q_MAX;
     printf("%d\n", Q);
